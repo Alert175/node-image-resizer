@@ -1,0 +1,16 @@
+{
+  "name": "image-resizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node cmd/main.js"
+  },
+  "author": "Gusev Ilya",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "prom-client": "^14.0.1",
+    "sharp": "^0.30.7"
+  }
+}

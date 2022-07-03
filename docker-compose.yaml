@@ -1,0 +1,7 @@
+version: "3.7"
+services:
+  node_image_resizer:
+    container_name: node_image_resizer
+    build: .
+    ports:
+      - "5002:5002"
