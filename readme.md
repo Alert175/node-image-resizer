@@ -1,8 +1,8 @@
-# Service optimization images from WEB format
+# Service optimization images from WEB format, from clear node.js and sharp.js
 
 ## Dev:
-- `yarn`
-- `yarn start:dev`
+- `npm i`
+- `npm run cmd/main.js`
 #
 
 ## Prod:
